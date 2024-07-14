@@ -11,5 +11,6 @@
 }
 
 .cityList::-webkit-scrollbar {
-  width: 0;
+  display: none;
+  scroll-behavior: smooth;
 }
